@@ -1,0 +1,3 @@
+Set the pass​word before continuing.
+The API key is in ​config.json.
+Never commit a ­secret.
